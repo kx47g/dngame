@@ -1,0 +1,95 @@
+#location {
+    position: absolute;
+    top: 50px;
+    left: 300px;
+    font-size: 30px
+}
+
+#lo {
+    position: absolute;
+    top: 50px;
+    left: 435px;
+    font-size: 30px
+}
+
+button {
+    border-radius: 50px;
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    top: 100px;
+    font-size: 30px
+}
+
+#Desert {
+    position: absolute;
+    left: 100px;
+    background: rgb(250, 248, 115);
+}
+
+#Wetland {
+    position: absolute;
+    left: 250px;
+    background: rgb(81, 177, 219);
+}
+
+#Grassland {
+    position: absolute;
+    left: 400px;
+    background: rgb(135, 255, 141);
+}
+
+
+#difficult {
+    position: absolute;
+    top: 230px;
+    left: 315px;
+    font-size: 30px
+}
+
+#di {
+    position: absolute;
+    top: 230px;
+    left: 420px;
+    font-size: 30px
+}
+
+#Easy {
+    position: absolute;
+    width: 160px;
+    top: 300px;
+    left: 100px;
+    background: rgb(250, 248, 115);
+}
+
+#Normal {
+    position: absolute;
+    width: 160px;
+    top: 300px;
+    left: 270px;
+    background: rgb(81, 177, 219);
+}
+
+#Hard {
+    position: absolute;
+    width: 160px;
+    top: 300px;
+    left: 440px;
+    background: rgb(135, 255, 141);
+}
+
+#Next {
+    position: absolute;
+    width: 80px;
+    top: 450px;
+    left: 900px;
+    background: rgb(255, 184, 179);
+}
+
+#Back {
+    position: absolute;
+    width: 80px;
+    top: 450px;
+    left:100px;
+    background: rgb(255, 184, 179);
+}
